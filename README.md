@@ -1,5 +1,5 @@
  # odin-recipes
- My first project
+ Recipe project
  In this project I created a website with 3 different recipes for steaks.
  I used the following tags: headings, links, images, lists
  I used level1 headings for the name of the recipes, the description, ingredients and steps were all level2 headings.
